@@ -4,7 +4,7 @@ hackBCA V, 2020
 
 Aidan Glickman
 
-[aidg.dev](http://aidg.dev)
+[aidanglickman.com](https://aidanglickman.com)
 
 ## `Welcome`
 
